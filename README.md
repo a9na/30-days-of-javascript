@@ -1,2 +1,4 @@
 # 30-days-of-javascript
-30 Days of JavaScript - LeetCode Challenge
+
+
+Gonna be deep-diving into this and tackling and studying each challenge as detailed and explanation-rich as I can.
