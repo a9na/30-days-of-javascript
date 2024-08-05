@@ -1,4 +1,4 @@
-/*2665. Counter II
+/* Counter II
 Easy
 Companies
 Hint
