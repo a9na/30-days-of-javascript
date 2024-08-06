@@ -1,7 +1,6 @@
 /* Counter II
-Easy
-Companies
-Hint
+
+
 Write a function createCounter. It should accept an initial integer init. It should return an object with three functions.
 
 The three functions are:
