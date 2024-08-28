@@ -72,5 +72,6 @@ console.log(counter.decrement()); // 4
 Object Initialization: let current = init; sets up a local variable current to keep track of the current counter value.
 Increment Method: The increment method increases current by 1 and returns the new value.
 Decrement Method: The decrement method decreases current by 1 and returns the new value.
-Reset Method: The reset method sets current back to the initial value init and returns this value./*
+Reset Method: The reset method sets current back to the initial value init and returns this value.
+*/
 
